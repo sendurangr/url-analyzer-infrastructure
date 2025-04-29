@@ -10,7 +10,7 @@ resource "aws_ecr_repository" "this" {
 }
 
 # ------------- ECS - Cluster, Task Definition, Service Creation -------------
-resource "aws_ecs_cluster" "this" {
+/* resource "aws_ecs_cluster" "this" {
   name = var.ecs_cluster_name
 }
 
@@ -103,7 +103,7 @@ resource "aws_ecs_service" "this" {
   }
 }
 
-
+ */
 
 # ------------- App runner configuration -------------
 
