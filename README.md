@@ -1,7 +1,7 @@
 # AWS Infrastructure through Terraform
 
 ## AWS Infrastructure Diagram
-![diagram](/resources/diagram.png)
+![diagram](/resources/diagram.svg)
 
 
 ## Commands t0 start and deploy to AWS
