@@ -6,6 +6,7 @@
   * [💻 Local Setup Guide](#-local-setup-guide)
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
+  * [☃️ <br>Find Extended / Full Documentation from <br>https://github.com/sendurangr/url-analyzer-api <br> (Backend Readme File)](#-brfind-extended--full-documentation-from-brhttpsgithubcomsendurangrurl-analyzer-api-br-backend-readme-file)
 <!-- TOC -->
 
 ## AWS Infrastructure Diagram
@@ -57,3 +58,7 @@ Apply Changes to AWS
 ```bash
 terraform apply
 ```
+
+
+
+## ☃️ <br>Find Extended / Full Documentation from <br>https://github.com/sendurangr/url-analyzer-api <br> (Backend Readme File)
